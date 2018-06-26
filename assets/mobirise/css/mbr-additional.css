@@ -1762,7 +1762,11 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-color: #89b174;
+  background-image: url("../../../assets/images/webpage-1386x600.jpg");
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn B {
+  color: #232323;
 }
 .cid-qW2V6kipqf {
   padding-top: 60px;
